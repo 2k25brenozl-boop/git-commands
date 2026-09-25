@@ -12,3 +12,6 @@ Salvar o pacote usando "git commit -m 'mensagem'"
 
 # Enviar pacotes ao github
  - git push
+
+#Receber pacotes ao github
+ - git pull
