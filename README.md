@@ -15,3 +15,7 @@ Salvar o pacote usando "git commit -m 'mensagem'"
 
 #Receber pacotes ao github
  - git pull
+
+ # Configuração
+  - Configurar nome de usuário usando "git config 00global user.name "Nome""
+  - Configurar email de usuário usando "git config --global user.email "email""
